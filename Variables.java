@@ -34,10 +34,13 @@ public class Variables {
          float gravity = 9.8f;
          double complex = 7.8900036;
          long negative = -89900;
+         long number = 792929229202L;
+         double num3 = 19.7893d;
+         float num4 = 456474e4f;
 
          System.out.println(z);
          System.out.println(bool2);
-         System.out.println( letter + gravity + complex + negative );
+         System.out.println( letter + gravity + complex + negative + number + num3 + num4);
 
 
     }
