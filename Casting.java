@@ -27,6 +27,39 @@ public class Casting {
         System.out.println(doubleTwo);
         System.out.println(intTwo);
 
+        int x = 60 + 40;
+        int sum1 = x + 50;
+        int sum2 = sum1 + 100;
+        int sum3 = sum1 + sum2;
+        int sub = sum3 - sum2;
+        int mult = sub * x;
+        float div = (float)sum3 / sum2;
+        float mod = mult % div;
+        int inc = (int) mod++;
+        int inc1 = (int) ++mod;
+        int dec = --inc1;
+
+
+        System.out.println("Arithmetic Operators in Java");
+        System.out.println("The value of X is: "+x);
+        System.out.println(sum1);
+        System.out.println(sum2);
+        System.out.println(sum3);
+        System.out.println(sub);
+        System.out.println(mult);
+        System.out.println( "Division: "+ div);
+        System.out.println(mod);
+        System.out.println(inc);
+        System.out.println(inc1);
+        System.out.println(dec);
+
+        System.out.println("Assignment Operators" );
+        System.out.println(x+=3); //x = x + 3
+        System.out.println(x-=3); // x = x - 3
+        System.out.println(x*=3); // x = x * 3
+        System.out.println(x%=3); // x = x % 3
+
+
     }
     
 }
