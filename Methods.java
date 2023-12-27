@@ -13,9 +13,22 @@ public class Methods {
         System.out.println("Java is awesome");
     }
 
+    //Method with parameters
+    static void methodTwo (String firstName) {
+        System.out.println(firstName + "Second name");
+    }
+
     public static void main (String[] Args) {
         myMethod();
         myMethod();
         myMethod();
+
+        //Method Parameters
+        //Parameters can be passed into a method as variables
+        //Multiple Parameters are specified in the parantheses inside the method
+
+        methodTwo("James ");
+        methodTwo("Bond ");
+
     }
 }
