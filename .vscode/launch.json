@@ -1,0 +1,308 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AbstractClassAccess",
+            "request": "launch",
+            "mainClass": "AbstractClassAccess",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "AbstractDemo",
+            "request": "launch",
+            "mainClass": "AbstractDemo",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "AbstractSecond",
+            "request": "launch",
+            "mainClass": "AbstractSecond",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "AccessMethods",
+            "request": "launch",
+            "mainClass": "AccessMethods",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Animals$Main",
+            "request": "launch",
+            "mainClass": "Animals$Main",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Boolean",
+            "request": "launch",
+            "mainClass": "Boolean",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Casting",
+            "request": "launch",
+            "mainClass": "Casting",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "ClassMethods",
+            "request": "launch",
+            "mainClass": "ClassMethods",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "ClassNesting",
+            "request": "launch",
+            "mainClass": "ClassNesting",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Conditions",
+            "request": "launch",
+            "mainClass": "Conditions",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Cons",
+            "request": "launch",
+            "mainClass": "Cons",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Const",
+            "request": "launch",
+            "mainClass": "Const",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Dialogbox",
+            "request": "launch",
+            "mainClass": "Dialogbox",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Enums.src.Enums.Main",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "FinalAttributes",
+            "request": "launch",
+            "mainClass": "FinalAttributes",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "ForLoops",
+            "request": "launch",
+            "mainClass": "ForLoops",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "GetAndSet$Main",
+            "request": "launch",
+            "mainClass": "GetAndSet$Main",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Grade",
+            "request": "launch",
+            "mainClass": "Grade",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "HaltingCondition",
+            "request": "launch",
+            "mainClass": "HaltingCondition",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Harrypotter",
+            "request": "launch",
+            "mainClass": "Harrypotter",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Hi",
+            "request": "launch",
+            "mainClass": "Hi",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "Interfaces.Interfaces.Main",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "CurrentDate",
+            "request": "launch",
+            "mainClass": "JavaDateAndTime.DisplayCurrentDate.CurrentDate",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "DateAndTimeFormartting",
+            "request": "launch",
+            "mainClass": "JavaDateAndTime.DisplayCurrentDate.DateAndTimeFormartting",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Loops",
+            "request": "launch",
+            "mainClass": "Loops",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Maths",
+            "request": "launch",
+            "mainClass": "Maths",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloading",
+            "request": "launch",
+            "mainClass": "MethodOverloading",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Methods",
+            "request": "launch",
+            "mainClass": "Methods",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "MethodsMultipleParameters",
+            "request": "launch",
+            "mainClass": "MethodsMultipleParameters",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Object",
+            "request": "launch",
+            "mainClass": "Object",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Objects",
+            "request": "launch",
+            "mainClass": "Objects",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "OuterClassAccess",
+            "request": "launch",
+            "mainClass": "OuterClassAccess",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Packages",
+            "request": "launch",
+            "mainClass": "Packages",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "PositiveIntegers",
+            "request": "launch",
+            "mainClass": "PositiveIntegers",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Recursion",
+            "request": "launch",
+            "mainClass": "Recursion",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "StaticMethods",
+            "request": "launch",
+            "mainClass": "StaticMethods",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "Strings",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "SubClass",
+            "request": "launch",
+            "mainClass": "SubClass",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "JavaW3School_d117658e"
+        }
+    ]
+}
