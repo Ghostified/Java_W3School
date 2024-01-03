@@ -14,7 +14,14 @@ public class Main {
             case HIGH:
                 System.out.println("High level");
                 break;
+       }
+
+        //looping though an enum using the values () method
+        for (Level all : Level.values()) {
+            System.out.println(all);
         }
+
+
     }
 
 }
