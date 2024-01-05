@@ -11,5 +11,20 @@ public class ArrayLists{
         cars.add("Ford");
         cars.add("Mazda");
         System.out.println(cars);
+
+        //Access an item in an array list 
+        cars.get(0);
+
+        //Modify an item in arrayList
+        cars.set(1,"Tesla");
+        System.out.println(cars);
+
+        //Remove item in an array list
+        cars.remove(3);
+        System.out.println(cars);
+
+        //Check how many items are in an arrayLit
+        System.out.println(cars.size());
+        
     }
 }
