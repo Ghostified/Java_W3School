@@ -25,6 +25,17 @@ public class ArrayLists{
 
         //Check how many items are in an arrayLit
         System.out.println(cars.size());
+
+        //looping through an array list using a for loop
+        for (int i = 0; i< cars.size(); i++) {
+            System.out.println(cars.get(i));
+        }
+
+        //Looping through an ArrayList with a for each loop
+
+        for (String i : cars) {
+            System.out.println(i);
+        }
         
     }
 }
