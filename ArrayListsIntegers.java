@@ -1,4 +1,5 @@
 import java.util.ArrayList;
+import java.util.Collections;
 public class ArrayListsIntegers {
 
     public static void main (String[]Args) {
@@ -14,6 +15,13 @@ public class ArrayListsIntegers {
         myNumbers.add(100);
         for(int i = 0; i < myNumbers.size(); i++) {
             System.out.println(myNumbers.get(i));
+
+        //sorting though an arraylist
+        Collections.sort(myNumbers);
+        for(int sort : myNumbers) {
+            System.out.println(sort);
+        }
+
         }
 
     }
