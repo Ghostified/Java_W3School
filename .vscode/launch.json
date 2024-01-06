@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "IteratorObject",
+            "request": "launch",
+            "mainClass": "IteratorObject",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
             "name": "HashSets",
             "request": "launch",
             "mainClass": "HashSets",
