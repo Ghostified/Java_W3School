@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "JavaExceptions",
+            "request": "launch",
+            "mainClass": "JavaExceptions",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
             "name": "Wrappers",
             "request": "launch",
             "mainClass": "Wrappers",
