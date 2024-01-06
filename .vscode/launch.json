@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Regex",
+            "request": "launch",
+            "mainClass": "Regex",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
             "name": "JavaExceptions",
             "request": "launch",
             "mainClass": "JavaExceptions",
