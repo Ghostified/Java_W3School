@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LinkedListJava",
+            "request": "launch",
+            "mainClass": "LinkedListJava",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
             "name": "ArrayListsIntegers",
             "request": "launch",
             "mainClass": "ArrayListsIntegers",
