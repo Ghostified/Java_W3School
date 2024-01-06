@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HashMaps",
+            "request": "launch",
+            "mainClass": "HashMaps",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
             "name": "LinkedListJava",
             "request": "launch",
             "mainClass": "LinkedListJava",
