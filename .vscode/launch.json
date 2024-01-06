@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Wrappers",
+            "request": "launch",
+            "mainClass": "Wrappers",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
             "name": "IteratorObject",
             "request": "launch",
             "mainClass": "IteratorObject",
