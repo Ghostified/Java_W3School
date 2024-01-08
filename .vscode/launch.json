@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CreateThread",
+            "request": "launch",
+            "mainClass": "CreateThread",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
             "name": "ThreadState",
             "request": "launch",
             "mainClass": "ThreadState",
