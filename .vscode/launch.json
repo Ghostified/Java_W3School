@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RunnableInterfaceThread",
+            "request": "launch",
+            "mainClass": "RunnableInterfaceThread",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
             "name": "ThreadState",
             "request": "launch",
             "mainClass": "ThreadState",
