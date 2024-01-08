@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Multi",
+            "request": "launch",
+            "mainClass": "Multi",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
             "name": "RunnableInterfaceThread",
             "request": "launch",
             "mainClass": "RunnableInterfaceThread",
