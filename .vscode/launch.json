@@ -6,16 +6,35 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "Multi",
             "request": "launch",
             "mainClass": "Multi",
+=======
+            "name": "SleepMethod",
+            "request": "launch",
+            "mainClass": "SleepMethod",
+>>>>>>> sleepMethod
             "projectName": "JavaW3School_d117658e"
         },
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "RunnableInterfaceThread",
             "request": "launch",
             "mainClass": "RunnableInterfaceThread",
+=======
+            "name": "Concurrency",
+            "request": "launch",
+            "mainClass": "Concurrency",
+            "projectName": "JavaW3School_d117658e"
+        },
+        {
+            "type": "java",
+            "name": "CreateThread",
+            "request": "launch",
+            "mainClass": "CreateThread",
+>>>>>>> sleepMethod
             "projectName": "JavaW3School_d117658e"
         },
         {
