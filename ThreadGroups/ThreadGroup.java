@@ -14,6 +14,9 @@ public class ThreadGroup  implements Runnable{
     public ThreadGroup(String string) {
     }
 
+    public ThreadGroup(ThreadGroup tg, String string) {
+    }
+
     public void run () {
         System.out.println(Thread.currentThread().getName());
     }
@@ -35,6 +38,10 @@ public class ThreadGroup  implements Runnable{
     }
 
     public String activeCount() {
+        return null;
+    }
+
+    public String activeGroupCount() {
         return null;
     }
 }
