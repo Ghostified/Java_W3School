@@ -44,4 +44,11 @@ public class ThreadGroup  implements Runnable{
     public String activeGroupCount() {
         return null;
     }
+
+    public void destroy() {
+    }
+
+    public String getName() {
+        return null;
+    }
 }
