@@ -51,4 +51,8 @@ public class ThreadGroup  implements Runnable{
     public String getName() {
         return null;
     }
+
+    public int enumerate(Thread[] grp) {
+        return 0;
+    }
 }
