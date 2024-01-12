@@ -23,7 +23,7 @@ public class DaemonMethod {
             System.out.println("The group is a daemon group");
         }
         else {
-            System.out.println("The group is a daemon group");
+            System.out.println("The group is NOT a daemon group");
         }
     }
 

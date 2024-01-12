@@ -59,4 +59,8 @@ public class ThreadGroup  implements Runnable{
     public boolean isDaemon() {
         return false;
     }
+
+    public boolean isDestroyed() {
+        return false;
+    }
 }
