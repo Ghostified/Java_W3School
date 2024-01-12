@@ -55,4 +55,8 @@ public class ThreadGroup  implements Runnable{
     public int enumerate(Thread[] grp) {
         return 0;
     }
+
+    public boolean isDaemon() {
+        return false;
+    }
 }
